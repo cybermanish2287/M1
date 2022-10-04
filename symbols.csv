@@ -1,0 +1,37 @@
+﻿Company,Symbol,Sector,Sector_index
+Bajaj Auto,BAJAJ-AUTO,Automobile,^CNXAUTO
+Eicher Motors,EICHERMOT,Automobile,^CNXAUTO
+Hero MotoCorp,HEROMOTOCO,Automobile,^CNXAUTO
+Mahindra & Mahindra,M&M,Automobile,^CNXAUTO
+Maruti Suzuki,MARUTI,Automobile,^CNXAUTO
+Tata Motors,TATAMOTORS,Automobile,^CNXAUTO
+Bharat Petroleum,BPCL,Energy - Oil & Gas,^CNXENERGY
+Coal India,COALINDIA,Energy - Coal,^CNXENERGY
+NTPC,NTPC,Energy - Power,^CNXENERGY
+Oil and Natural Gas Corporation,ONGC,Energy - Oil & Gas,^CNXENERGY
+Power Grid Corporation of India,POWERGRID,Energy - Power,^CNXENERGY
+Reliance Industries,RELIANCE,Energy - Oil & Gas,^CNXENERGY
+Adani Ports & SEZ,ADANIPORTS,Infrastructure,^CNXINFRA
+Wipro,WIPRO,Information Technolog,^CNXIT
+Adani Enterprises,ADANIENT,Metals,^CNXMETAL
+Hindalco Industries,HINDALCO,Metals,^CNXMETAL
+JSW Steel,JSWSTEEL,Metals,^CNXMETAL
+Tata Steel,TATASTEEL,Metals,^CNXMETAL
+Cipla,CIPLA,Pharmaceuticals,^CNXPHARMA
+Divi's Laboratories,DIVISLAB,Pharmaceuticals,^CNXPHARMA
+Dr. Reddy's Laboratories,DRREDDY,Pharmaceuticals,^CNXPHARMA
+Sun Pharmaceutical,SUNPHARMA,Pharmaceuticals,^CNXPHARMA
+Axis Bank,AXISBANK,Banking,^NSEBANK
+HDFC Bank,HDFCBANK,Banking,^NSEBANK
+ICICI Bank,ICICIBANK,Banking,^NSEBANK
+IndusInd Bank,INDUSINDBK,Banking,^NSEBANK
+Kotak Mahindra Bank,KOTAKBANK,Banking,^NSEBANK
+State Bank of India,SBIN,Banking,^NSEBANK
+Asian Paints,ASIANPAINT,Consumer Durables,NIFTY_CONSR_DURBL.NS
+Titan Company,TITAN,Consumer Durables,NIFTY_CONSR_DURBL.NS
+Bajaj Finance,BAJFINANCE,Financial Services,NIFTY_FIN_SERVICE.NS
+Bajaj Finserv,BAJAJFINSV,Financial Services,NIFTY_FIN_SERVICE.NS
+HDFC,HDFC,Financial Services,NIFTY_FIN_SERVICE.NS
+HDFC Life,HDFCLIFE,Financial Services,NIFTY_FIN_SERVICE.NS
+SBI Life Insurance Company,SBILIFE,Financial Services,NIFTY_FIN_SERVICE.NS
+Apollo Hospitals,APOLLOHOSP,Healthcare,NIFTY_HEALTHCARE.NS
